@@ -1,6 +1,12 @@
-This is the frontend part of Announcement Board application.
-## Available Scripts
+This is the frontend part of Announcement Board application. 
 
+## Technologies
+The following technologies have been used:  
+        - React
+        - JavaScript
+        - Ant Design (UI Library)
+
+## Available Scripts
 In the project directory, first you need to install node modules by running 
 ### `npm install` 
 
@@ -14,8 +20,4 @@ Base URL is defined in '/src/config.js'. You can change it if you want.
 In the project directory all necessary code is under /src directory. 
 Inside /src, there are dedicated folder for components, services and utilities.  
 
-## Technologies
-The following technologies have been used:  
-        - React
-        - JavaScript
-        - Ant Design (UI Library)
+
