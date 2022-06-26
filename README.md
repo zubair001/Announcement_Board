@@ -14,7 +14,7 @@ Then you can run the project by using
 ### `npm start`
 
 Open [http://localhost:3000] to view it in your browser.
-Base URL is defined in '/src/config.js'. You can change it if you want.
+Backend Base URL is defined in '/src/config.js'. You can change it if you want.
 
 ## Project Structure
 In the project directory all necessary code is under /src directory. 
