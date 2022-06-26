@@ -2,9 +2,9 @@ This is the frontend part of Announcement Board application.
 
 ## Technologies
 The following technologies have been used:  
-        - React
-        - JavaScript
-        - Ant Design (UI Library)
+- React
+- JavaScript
+- Ant Design (UI Library)
 
 ## Available Scripts
 In the project directory, first you need to install node modules by running 
